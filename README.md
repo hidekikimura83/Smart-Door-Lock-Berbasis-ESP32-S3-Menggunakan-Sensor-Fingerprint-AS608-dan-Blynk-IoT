@@ -1,0 +1,2 @@
+# Smart-Door-Lock-Berbasis-ESP32-S3-Menggunakan-Sensor-Fingerprint-AS608-dan-Blynk-IoT
+Smart Door Lock merupakan sistem keamanan pintu yang memanfaatkan sensor sidik jari sebagai metode autentikasi utama serta terintegrasi dengan platform Blynk untuk pemantauan dan pengendalian secara real-time. Sistem ini dirancang untuk meningkatkan keamanan akses dengan hanya mengizinkan pengguna yang sidik jarinya telah terdaftar membuka pintu.
